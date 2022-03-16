@@ -2,26 +2,31 @@
 
 
 ## 🙋‍♂️ Author 
+&nbsp;
 
-I am Małgorzata - retiring soldier in Polish Armed Forces and Front-end enthusiast.
+I am Małgorzata - retiring soldier of Polish Armed Forces and Front-end enthusiast.
 
-I have found myself especcially in creating front-end web applications however the building responsive websides also makes me fun.
+I have found myself especially in creating front-end web applications however the building responsive websides also makes me fun.
 
+What I am currently devoting to?
 
+- I'm finishing Individual Front-end Development Course with an experienced mentor Mateusz Bogolubow - [devmentor.pl](devmentor.pl).
+- I'm delving into React, Redux and JavaScript.
+- I'm looking for a job to create amazing apps and webs, as well as to develop my skills that will benefit in the further work .
 
-- I'm currently finishing Individual Front-end Development Course with an experienced mentor Mateusz Bogolubow - [devmentor.pl](devmentor.pl) 
-- I'm diving deep into React, JavaScript and CSS
-- I'm looking for job to develop my skills and to contribute in
+What else makes me fun?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to rea`q33ad ch me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- When I start doing puzzles It is hard to keep me from doing it.
+- I love the feeling after a long-distance run...even if I run out of steam. 
+- I enjoy the flavour of coffee especially having a break during a trekking trip.
+- It is hard to imagine the life without a mango and strawberries 🌱
+
+I am an appropriate person if you are looking for the employee who:
+
+- has a high sense of responsibility,
+- is open to constructive criticism and is able to draw conclusions from it,
+- is self-motivated and is willing to continuously enhance her competence,
+- has no problem with finding yourself in a new work environment and has positive attitude to people. 
 
 &nbsp;
 
