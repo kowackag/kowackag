@@ -4,14 +4,13 @@
 ## 🙋‍♂️ Author 
 &nbsp;
 
-I am Małgorzata - retiring soldier of Polish Armed Forces and Front-end enthusiast.
+I am Małgorzata - retiring soldier of Polish Armed Forces and Front-end enthusiast. 
 
-I have found myself especially in creating front-end web applications however the building responsive websides also makes me fun.
+I have found myself especially in creating front-end web applications however the building responsive websides also makes me fun. I have completed the Individual Front-end Development Course with an experienced mentor Mateusz Bogolubow - [devmentor.pl](devmentor.pl).
 
 What I am currently devoting to?
 
-- I'm finishing Individual Front-end Development Course with an experienced mentor Mateusz Bogolubow - [devmentor.pl](devmentor.pl).
-- I'm delving into React, Redux and JavaScript.
+- I'm delving into React, Redux and TypeScript.
 - I'm looking for a job to create amazing apps and webs, as well as to develop my skills that will benefit in the further work .
 
 What else makes me fun?
