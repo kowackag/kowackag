@@ -18,7 +18,7 @@ What else makes me fun?
 - I enjoy the flavour of coffee especially having a break during a trekking trip.
 - It is hard to imagine the life without a mango and strawberries 🌱
 
-I am an appropriate person if you are looking for the employee **who may have an impact on your business development**, because she:
+I am an appropriate person if you are looking for the employee **who may have an impact on your business development**, who:
 
 - is open-minded,
 - has a high sense of responsibility,
