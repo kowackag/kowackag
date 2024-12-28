@@ -55,6 +55,8 @@ I have some experience:
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 &nbsp;
+## Account Statistics on GitHub
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kowackag)](https://git.io/streak-stats)
 
 ## 💬 Contact
 
