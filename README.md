@@ -4,12 +4,13 @@
 ## 🙋‍♂️ Author 
 &nbsp;
 
-I am Małgorzata, retiring soldier of Polish Armed Forces and **Front-end Developer**. 
-I'm looking for a dream job that will enable me to create amazing apps and webs that will meet clients requirements, as well as to help me develop my skills that will benefit in the further work.
+I am Małgorzata, **Frontend Developer** who aspires to become **Fullstack Developer**
 
 What I am currently devoting to?
 
-- I'm delving into Next.js, React, TypeScript and GraphQl.
+- I'm delving into Next.js, React and TypeScript.
+- I'm developing my frontend skills with the Vue framework.
+- I have just started learning c# to expand my knowledge with the backend.
 
 What else makes me fun?
 
